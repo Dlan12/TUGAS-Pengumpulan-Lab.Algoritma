@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main() {
+  int b, k, l;
+
+  for (b = 1; b <= 5; b++) {
+    for (k = 1; k <= 5; k++) {
+      cout << " " << b;
+    }
+    cout << endl;
+  }
+}
+// MATERI FOR // 
