@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  int a;
+  cout << "Program Perulangan ";
+  for(a=1; a<=10; a++){
+    cout << "\n" << a;
+    }
+  cout << endl;
+  
+  int b;
+  cout << "\nPerulangan Menurun ";
+  for(b=10; b>=1; b--){
+    cout << "\n" << b;
+    }
+  cout << endl;
+}
+// MATERI FOR //
